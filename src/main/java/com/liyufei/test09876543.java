@@ -11,10 +11,14 @@ public class test09876543 {
 	}
 //	public static void main3(String[] args) {
 //		System.out.println("很过分个大厦的方式地址是");
-//		
+//
 //	}
 //	public static void main4(String[] args) {
 //		System.out.println("李宇飞范甘迪三");
 //	}
+	public static void main4(String[] args) {
+		System.out.println("李宇飞范甘迪三");
+		System.out.println("sdz");
+	}
 }
 
