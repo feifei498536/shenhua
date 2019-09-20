@@ -6,10 +6,6 @@ package com.liyufei;
 public class test4 {
 	public static void main(String[] args) {
 		System.out.println("改又太热万达");
-		System.out.println("发的啥时候");
-	}
-	public void get (){
-		System.out.println("tedhs");
 	}
 }
 
