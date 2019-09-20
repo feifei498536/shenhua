@@ -6,8 +6,7 @@ package com.liyufei;
 public class org {
 
     public static void get(String[] args) {
-
-        System.out.println("方法2");
+        System.out.println("方法4");
     }
 }
 
