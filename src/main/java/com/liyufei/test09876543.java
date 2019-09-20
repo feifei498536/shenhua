@@ -6,6 +6,7 @@ package com.liyufei;
 public class test09876543 {
 	public static void main(String[] args) {
 		System.out.println("hrgewqs");
+		System.out.println("fffffffffffff");
 	}
 }
 
