@@ -5,14 +5,16 @@ package com.liyufei;
 */
 public class test09876543 {
 	public static void main(String[] args) {
-		System.out.println("返回干点啥");
-	}
-	public static void main3(String[] args) {
-		System.out.println("很过分个大厦的方式地址是");
+		System.out.println("返回5432请问 ");
+		//发发发
 		
 	}
-	public static void main4(String[] args) {
-		System.out.println("李宇飞范甘迪三");
-	}
+//	public static void main3(String[] args) {
+//		System.out.println("很过分个大厦的方式地址是");
+//		
+//	}
+//	public static void main4(String[] args) {
+//		System.out.println("李宇飞范甘迪三");
+//	}
 }
 
