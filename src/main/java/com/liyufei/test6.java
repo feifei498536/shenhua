@@ -5,8 +5,7 @@ package com.liyufei;
 */
 public class test6 {
 	public static void main(String[] args) {
-		System.out.println("test6IDEA");
-		System.out.println("IDEA");
+		System.out.println("9999999");
 	}
 }
 

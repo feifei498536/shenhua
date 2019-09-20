@@ -5,9 +5,7 @@ package com.liyufei;
 */
 public class test5 {
 	public static void main(String[] args) {
-		System.out.println("lyufei");
-		System.out.println("test5eclipse");
-		System.out.println("test5IDEA");
+		System.out.println("4321二套3千万");
 	}
 }
 

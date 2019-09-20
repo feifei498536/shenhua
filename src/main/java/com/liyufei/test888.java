@@ -5,8 +5,7 @@ package com.liyufei;
 */
 public class test888 {
 	public static void main(String[] args) {
-		System.out.println("uuuuuu");
-		System.out.println("8888");
+		System.out.println("kkkkk");
 	}
 }
 
