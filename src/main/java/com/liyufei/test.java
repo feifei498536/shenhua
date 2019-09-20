@@ -7,6 +7,8 @@ public class test {
 	public static void main(String[] args) {
 		System.out.println("876543");
 		///三生三世
+		System.out.println("fdsa");
+
 	}
 }
 
